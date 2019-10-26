@@ -1,0 +1,66 @@
+	1. kebutuhan development
+ 	- installs xammp (local server)
+
+	2. tool development
+   	IDE/text editor (visul studio(free), sublime)
+  	cmd -> cmder (include git)
+   	composer ?
+
+	cari ?
+	- git/github
+	- composer
+	- library php 
+	- packget php
+
+	syarat terjun ke laravel
+	1. php dasar (funstion , variabel)
+	2. oop php
+	3. konsep mvc 
+
+	sumber belajar ?
+	youtube
+	1. web programming umpas
+	2. idstak 
+	3. kawan koding
+	4. dicoding
+	
+	sumber belajar bisa buku ?
+	Mas rahmat awalludin
+	mas muhammad azzamudin
+
+	3. install cmder 
+	- setting cmder
+	
+	4. installs laravel (laravel 5.8/6)
+		- buka dokumentasi 
+		- fitur artisan ?
+			- kita perlu buka 
+			- kita gak perlu nyimpan project di htdocs
+	1. routing = rute
+		- alur kerjanya
+		- buat URL
+		- buat routenya di web.php
+		- buat file route di folder views
+
+	2. template enggine
+		- explore : 
+		1. pakai bootrap 
+		2. adminLTE
+	
+
+	Ridho Ganda Rahardi
+	0822-8791-1980
+
+
+
+
+
+
+	lanjutkan 
+	1. pelajari tentang controller
+	2. dan model 
+
+
+
+	
+
